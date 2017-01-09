@@ -17,7 +17,7 @@ void main()
 		bar(290,360,350,375);
 		setcolor(RED);
 		//setfillstyle(SOLID_FILL,RED);
-		pieslice(320,240,i,i+40,60);
+		/*pieslice(320,240,i,i+40,60);
 		pieslice(320,240,i+120,i+160,60);
 		pieslice(320,240,i+240,i+280,60);
 		setcolor(BLUE);
@@ -33,7 +33,7 @@ void main()
 		setcolor(BLUE);
 		circle(320,240,10);
 		//setfillstyle(SOLID_FILL,BLACK);
-		floodfill(320,240,BLUE);
+		floodfill(320,240,BLUE);*/
 		}
 	}	
 	closegraph();
